@@ -1,0 +1,4 @@
+# SetSpeed.srv
+float64 speed
+---
+bool success
